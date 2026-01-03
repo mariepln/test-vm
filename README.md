@@ -29,13 +29,9 @@ systemctl status apache2
 
 # Modification page web
 sudo nano /var/www/html/index.html
-```
+``
 
-## Résultat
-Site web accessible sur http://192.168.56.102
-
-
-## Jour 2 : Gestion utilisateurs et automatisation
+##Gestion utilisateurs et automatisation
 
 ### Utilisateurs créés
 - alice (groupe: equipe)
